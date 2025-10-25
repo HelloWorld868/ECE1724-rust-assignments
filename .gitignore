@@ -1,2 +1,2 @@
-/target
-/a2-public-tests.tar.gz
+*/target/
+*/*.tar.gz
