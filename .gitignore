@@ -1,2 +1,3 @@
 */target/
 */*.tar.gz
+/server/songs.json
